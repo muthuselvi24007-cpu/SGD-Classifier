@@ -18,7 +18,7 @@ To write a program to predict the type of species of the Iris flower using the S
 Program to implement the prediction of iris species using SGD Classifier.
 Developed by: Muthu selvi R
 RegisterNumber: 25011064 
-
+*/
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import SGDClassifier
@@ -69,6 +69,7 @@ if prediction[0] == 1:
     print(" The student is LIKELY to be PLACED.")
 else:
     print("The student is NOT likely to be placed.")
+     
 ```
 ## Output:
 <img width="882" height="728" alt="image" src="https://github.com/user-attachments/assets/43916d62-4fd8-4ae6-887d-118ce1512346" />
