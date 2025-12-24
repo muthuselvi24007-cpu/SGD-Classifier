@@ -70,7 +70,9 @@ if prediction[0] == 1:
     print(" The student is LIKELY to be PLACED.")
 else:
     print("The student is NOT likely to be placed.")
+```
 ## Output:
+<img width="882" height="728" alt="image" src="https://github.com/user-attachments/assets/43916d62-4fd8-4ae6-887d-118ce1512346" />
 
 
 ## Result:
